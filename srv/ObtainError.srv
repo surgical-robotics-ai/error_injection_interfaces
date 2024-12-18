@@ -1,0 +1,5 @@
+sensor_msgs/JointState current_js 
+sensor_msgs/JointState previous_js 
+---
+bool success
+sensor_msgs/JointState joint_error 
